@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Toyota Burnaby",
-  "generated_at": "2026-10-25T16:38:12",
-  "vehicle_count": 330,
+  "generated_at": "2026-10-25T20:50:09",
+  "vehicle_count": 327,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1764,17 +1764,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla Cross LE PREMIUM AWD",
-      "vin": "7MUBAABG0TVT62944",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ff7af4eb6e97.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 37384.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Corolla Cross L AWD",
       "vin": "7MUAAABG0TVT63021",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/58a3197f7270.html",
@@ -1794,17 +1783,6 @@
       "model": "Corolla Cross",
       "condition": "new",
       "price": 33149.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross L AWD",
-      "vin": "7MUAAABG1TV212091",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ac0fbf1184f2.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 32494.0,
       "price_currency": "CAD"
     },
     {
@@ -1915,17 +1893,6 @@
       "model": "Corolla Cross",
       "condition": "new",
       "price": 33499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Sedan LE UPGRADE",
-      "vin": "5YFB4MDEXTP489401",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a18a84a50953.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 30383.0,
       "price_currency": "CAD"
     },
     {
@@ -2138,6 +2105,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Toyota Sienna XSE FWD 7-PASS",
+      "vin": "5TDGRKEC2TS353960",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/eadeda917e6e.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 57532.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota Tacoma TRD OFF-ROAD",
       "vin": "3TYLB5JN0TT150081",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/d10befb317b2.html",
@@ -2198,7 +2176,7 @@
       "condition": "new"
     },
     {
-      "name": "2026 Toyota Tacoma 4x4 Double Cab Auto",
+      "name": "2026 Toyota Tacoma TRD SPORT +",
       "vin": "3TYLB5JN0TTV70349",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/1a3d65744313.html",
       "year": 2026,
@@ -2507,7 +2485,7 @@
       "make": "Toyota",
       "model": "C-HR",
       "condition": "new",
-      "price": 57012.0,
+      "price": 58002.0,
       "price_currency": "CAD"
     },
     {
@@ -2518,7 +2496,7 @@
       "make": "Toyota",
       "model": "C-HR",
       "condition": "new",
-      "price": 56457.0,
+      "price": 57447.0,
       "price_currency": "CAD"
     },
     {
@@ -2555,7 +2533,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota C-HR XSE AWD",
+      "name": "2027 Toyota C-HR C-HR XSE AWD PREMIUM PACKAGE,PREMIUM PAINT",
       "vin": "JTMAAAAD1VJ034250",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/7641fe36eaf8.html",
       "year": 2027,
@@ -3157,17 +3135,6 @@
       "model": "Prius Prime",
       "condition": "new",
       "price": 46160.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACUXV3086858",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/857ecb760808.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 41830.0,
       "price_currency": "CAD"
     },
     {
