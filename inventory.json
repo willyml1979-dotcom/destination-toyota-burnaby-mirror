@@ -1,6 +1,6 @@
 {
   "dealership": "Destination Toyota Burnaby",
-  "generated_at": "2026-10-25T20:50:09",
+  "generated_at": "2026-10-26T01:48:35",
   "vehicle_count": 327,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -90,7 +90,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 15998.0,
+      "price": 15498.0,
       "price_currency": "CAD"
     },
     {
@@ -222,7 +222,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 26498.0,
+      "price": 25998.0,
       "price_currency": "CAD"
     },
     {
@@ -453,7 +453,7 @@
       "make": "Hyundai",
       "model": "Kona",
       "condition": "used",
-      "price": 21498.0,
+      "price": 20998.0,
       "price_currency": "CAD"
     },
     {
@@ -508,7 +508,7 @@
       "make": "Mazda",
       "model": "CX-30",
       "condition": "used",
-      "price": 24498.0,
+      "price": 23998.0,
       "price_currency": "CAD"
     },
     {
@@ -530,7 +530,7 @@
       "make": "Mazda",
       "model": "CX-9",
       "condition": "used",
-      "price": 33498.0,
+      "price": 32998.0,
       "price_currency": "CAD"
     },
     {
@@ -541,7 +541,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 23998.0,
+      "price": 23498.0,
       "price_currency": "CAD"
     },
     {
@@ -596,7 +596,7 @@
       "make": "Toyota",
       "model": "Corolla",
       "condition": "used",
-      "price": 21498.0,
+      "price": 20998.0,
       "price_currency": "CAD"
     },
     {
@@ -662,7 +662,7 @@
       "make": "Hyundai",
       "model": "Tucson Hybrid",
       "condition": "used",
-      "price": 32498.0,
+      "price": 31998.0,
       "price_currency": "CAD"
     },
     {
@@ -1520,7 +1520,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 36998.0,
+      "price": 36498.0,
       "price_currency": "CAD"
     },
     {
@@ -1531,7 +1531,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 47998.0,
+      "price": 46998.0,
       "price_currency": "CAD"
     },
     {
@@ -1564,7 +1564,7 @@
       "make": "Toyota",
       "model": "Grand Highlander",
       "condition": "used",
-      "price": 61498.0,
+      "price": 60998.0,
       "price_currency": "CAD"
     },
     {
