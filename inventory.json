@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Toyota Burnaby",
-  "generated_at": "2026-10-26T10:17:38",
-  "vehicle_count": 322,
+  "generated_at": "2026-11-17T02:31:12",
+  "vehicle_count": 347,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1634,36 +1634,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota bZ Woodland - PREMIUM PACKAGE",
-      "vin": "JTMBGAHB3TY619262",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ca82da2a37c3.html",
+      "name": "2026 Toyota 4Runner TRD SPORT",
+      "vin": "JTEVA5BRXT5171742",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a23c14bfefc2.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "bZ",
+      "model": "4Runner",
       "condition": "new",
-      "price": 67952.0,
+      "price": 63374.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota bZ XLE AWD,PREMIUM PAINT",
-      "vin": "JTMADAFB0TAV70324",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ae096c6c195d.html",
+      "name": "2026 Toyota 4Runner TRD SPORT,PREMIUM PAINT",
+      "vin": "JTEVA5BR0T5172141",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/e1ed4ca78acd.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "bZ",
+      "model": "4Runner",
       "condition": "new",
-      "price": 55817.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota bZ XLE AWD",
-      "vin": "JTMADAFB0TAV70326",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/9f70ff53771e.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 55467.0,
+      "price": 63724.0,
       "price_currency": "CAD"
     },
     {
@@ -1678,51 +1667,31 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Camry Sedan SE UPGRADE AWD",
-      "vin": "4T1DBADK0TUV70253",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4753768fc9f8.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Toyota Camry Sedan XSE AWD - BLACK INTERIOR,PREMIUM PAINT",
+      "name": "2026 Toyota Camry XSE AWD - BLACK INTERIOR,PREMIUM PAINT",
       "vin": "4T1DBADK5TU075024",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/f8509885bc9f.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/62df75062e44.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Camry",
       "condition": "new",
-      "price": 48172.0,
+      "price": 49162.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Camry Sedan SE UPGRADE AWD",
-      "vin": "4T1DBADK0TUV70270",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/339dc084c876.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "new",
-      "price": 41247.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Camry Sedan BLACK INTERIOR",
+      "name": "2026 Toyota Camry BLACK INTERIOR,PREMIUM PAINT",
       "vin": "4T1DBADK0TUV70341",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/54e363afe3d9.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/b09cc1af8bac.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Camry",
       "condition": "new",
-      "price": 48882.0,
+      "price": 48242.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Camry Sedan SE UPGRADE FWD",
+      "name": "2026 Toyota Camry SE UPGRADE FWD",
       "vin": "4T1DAACK0TUV70338",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/6916444c80e8.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/aa29d1d08ae0.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Camry",
@@ -1731,69 +1700,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Camry Sedan BLACK INTERIOR",
+      "name": "2026 Toyota Camry BLACK INTERIOR,PREMIUM PAINT",
       "vin": "4T1DBADK0TUV70339",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/d053c33f4224.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/c8807ff4d885.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Camry",
       "condition": "new",
-      "price": 48882.0,
+      "price": 48797.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Camry Sedan SE FWD",
-      "vin": "4T1DAACK0TUV70337",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/db073ea18df9.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Camry",
-      "condition": "new",
-      "price": 38542.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Camry Sedan BLACK INTERIOR",
+      "name": "2026 Toyota Camry BLACK INTERIOR,PREMIUM PAINT",
       "vin": "4T1DBADK0TUV70340",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/0b247d694d2b.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/c4d1d1c8c6e5.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Camry",
       "condition": "new",
-      "price": 48882.0,
+      "price": 48797.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla Cross L AWD",
-      "vin": "7MUAAABG0TVT63021",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/58a3197f7270.html",
+      "name": "2026 Toyota Camry XSE AWD - BLACK INTERIOR",
+      "vin": "4T1DBADK6TU569988",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ae8b91cd872f.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla Cross",
+      "model": "Camry",
       "condition": "new",
-      "price": 32494.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross LE FWD",
-      "vin": "7MUCAAAG0TVT63036",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/71c597dc0b1e.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 33149.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross L FWD",
-      "vin": "7MUAAAAG4TV229596",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/506af890ba78.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 31094.0,
+      "price": 47822.0,
       "price_currency": "CAD"
     },
     {
@@ -1805,61 +1741,6 @@
       "model": "Corolla Cross",
       "condition": "new",
       "price": 33149.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross LE FWD",
-      "vin": "7MUCAAAGXTV231765",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/336c097d6f52.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 33149.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross XLE AWD,PREMIUM PAINT",
-      "vin": "7MUDAABG4TV214219",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/f3264d662278.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 40749.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross LE AWD",
-      "vin": "7MUCAABG2TV214666",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4b6b3fd249e8.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 34169.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross L AWD",
-      "vin": "7MUAAABG5TV213423",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5c07c3b479f6.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 32494.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Corolla Cross XLE AWD,PREMIUM PAINT",
-      "vin": "7MUDAABG1TV212072",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4cd55f7217b7.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Corolla Cross",
-      "condition": "new",
-      "price": 40749.0,
       "price_currency": "CAD"
     },
     {
@@ -1885,25 +1766,122 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla Sedan LE UPGRADE",
-      "vin": "5YFB4MDE0TPV70178",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5cfac7c371d1.html",
+      "name": "2026 Toyota Corolla Cross LE FWD",
+      "vin": "7MUCAAAGXTV234732",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/dcfd84091cb9.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla",
+      "model": "Corolla Cross",
       "condition": "new",
-      "price": 30808.0,
+      "price": 33149.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Corolla LE CVT",
-      "vin": "SYFB4MDE0TPV70179",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/9ab6b858055e.html",
+      "name": "2026 Toyota Corolla Cross L AWD",
+      "vin": "7MUAAABG0TV217170",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/0680f8e061f7.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Corolla",
+      "model": "Corolla Cross",
       "condition": "new",
-      "price": 28592.0,
+      "price": 32494.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Corolla Cross LE FWD",
+      "vin": "7MUCAAAG8TV235751",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/810dbbe42aeb.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 33149.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Corolla Cross LE PREMIUM AWD,PREMIUM PAINT",
+      "vin": "7MUBAABG0TVV70369",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/077a8e801e2b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Corolla Cross L FWD",
+      "vin": "7MUAAAAG0TVV70400",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/e54204ccc86d.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 31830.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Corolla Cross LE PREMIUM AWD",
+      "vin": "7MUBAABG0TVV70454",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/58ab3789a8ac.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 37510.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Corolla Cross LE AWD",
+      "vin": "7MUCAABG0TVV704S2",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/82a181393a39.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 35285.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Corolla Cross LE AWD",
+      "vin": "7MUCAABG0TVV70453",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/c9bdfd50317e.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 36275.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Corolla Cross LE PREMIUM AWD",
+      "vin": "7MUBAABG0TVV70455",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a334e909d432.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 37510.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Corolla Cross XLE AWD",
+      "vin": "7MUDAABG0TVV70456",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a0d198f96853.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 40895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Corolla Cross LE AWD,PREMIUM PAINT",
+      "vin": "7MUCAABG8TV215482",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/f7c31917fd23.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla Cross",
+      "condition": "new",
+      "price": 34519.0,
       "price_currency": "CAD"
     },
     {
@@ -1940,14 +1918,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Crown Signia LIMITED",
-      "vin": "JTDACAAJ6T3059372",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/7984103f0186.html",
+      "name": "2026 Toyota Grand Highlander XLE",
+      "vin": "5TDAAABS0T5V70487",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/b011aab0d861.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Crown Signia",
+      "model": "Grand Highlander",
       "condition": "new",
-      "price": 60617.0,
+      "price": 55242.0,
       "price_currency": "CAD"
     },
     {
@@ -1962,17 +1940,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Prius Plug-In Hybrid XSE",
-      "vin": "JTDACACU0T3059617",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/de9f08ddc109.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 41525.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota RAV4 Plug-in Hybrid XSE PHEV TECHNOLOGY PACKAGE",
       "vin": "JTM7ERAV2TJ011613",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/33f3b4ae98e2.html",
@@ -1984,14 +1951,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Sienna XSE FWD 7-PASS,PREMIUM PAINT",
-      "vin": "5TDGRKEC0T5T631Z1",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/3254f8b1d742.html",
+      "name": "2026 Toyota RAV4 Plug-in Hybrid GR SPORT PHEV",
+      "vin": "JTM7ERAVXTD035642",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5784aa48e8b9.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Sienna",
+      "model": "RAV4 Plug-In Hybrid",
       "condition": "new",
-      "price": 57882.0,
+      "price": 60617.0,
       "price_currency": "CAD"
     },
     {
@@ -2036,17 +2003,6 @@
       "model": "Sienna",
       "condition": "new",
       "price": 57532.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Sienna LE FWD 8-PASS,PREMIUM PAINT",
-      "vin": "5TDGRKEC7TS345367",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/90fc83ad5fa7.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Sienna",
-      "condition": "new",
-      "price": 52832.0,
       "price_currency": "CAD"
     },
     {
@@ -2105,25 +2061,275 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tacoma TRD OFF-ROAD",
-      "vin": "3TYLB5JN0TT150081",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/d10befb317b2.html",
+      "name": "2026 Toyota Sienna XLE FWD 8-PASS,PREMIUM PAINT",
+      "vin": "5TDGRKEC9TS353759",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/2e45f1326621.html",
       "year": 2026,
       "make": "Toyota",
-      "model": "Tacoma",
+      "model": "Sienna",
       "condition": "new",
-      "price": 55627.0,
+      "price": 54722.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tacoma TRD SPORT",
-      "vin": "3TYLB5JN2TT157968",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/7c4359b96a9e.html",
+      "name": "2026 Toyota Sienna LE FWD 8-PASS",
+      "vin": "5TDGRKEC2TS348967",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/556ab936d85b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 55070.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna LE FWD 8-PASS,PREMIUM PAINT",
+      "vin": "5TDGRKEC4TS347528",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5c704d336f89.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 55420.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna XSE FWD 7-PASS,PREMIUM PAINT",
+      "vin": "5TDGRKEC6TS355324",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/19fc955ae0f2.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 57882.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna XSE TECHNOLOGY PACKAGE,PREMIUM PAINT",
+      "vin": "5TDGSKFC5TS298407",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/1613f40fd96b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 68471.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna LIMITED AWD 7-PASS",
+      "vin": "5TDGSKFC1TS298016",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4306c86c7062.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 73045.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Sienna LIMITED AWD 7-PASS,PREMIUM PAINT",
+      "vin": "5TDGSKFC9TS299611",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/2fcb1512c8ee.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 73395.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab SR5+",
+      "vin": "3TYLB5JN0TTV70346",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/9f3b7318b51c.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD PREMIUM",
+      "vin": "3TYLB5JN0TT151389",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/bef5176f7b77.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "new",
-      "price": 54037.0,
+      "price": 64829.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD PREMIUM",
+      "vin": "3TYLC5LN3TT079856",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/e96bbbbec457.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new",
+      "price": 69292.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD PREMIUM",
+      "vin": "3TYLB5JN0TTV70376",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/b9216f973c84.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD SPORT PREMIUM",
+      "vin": "3TYLB5JN0TTV70377",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/1bdffc6e2313.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD SPORT PREMIUM",
+      "vin": "3TYLB5JN0TTV70378",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4085f0aa9dbd.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD SPORT +",
+      "vin": "3TYLB5JN0TTV70464",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/bee3176675f6.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD+",
+      "vin": "3TYLB5JN0TTV7046Z",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/7ff51714bd2c.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab SR5+",
+      "vin": "3TYLB5JN0TTV70467",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/9a5455ee6904.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD PREMIUM",
+      "vin": "3TYLC5LN0TTV70479",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/28a9a5a01cba.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD+",
+      "vin": "3TYLB5JN0TTV70465",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/48c57d6aa67a.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab SR5",
+      "vin": "3TYLB5JN0TTV70466",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/6b0255b42055.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD",
+      "vin": "3TYLB5JN0TTV70473",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/c57dfaf75705.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD+",
+      "vin": "3TYLB5JN0TTV7047S",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a949a3b40a71.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab SR5",
+      "vin": "3TYLB5JN0TTV70470",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/857fef2cadc8.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD",
+      "vin": "3TYLB5JN0TTV70472",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/25cf95063d2c.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD+",
+      "vin": "3TYLB5JN0TTV70463",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/f9c2d4b4730a.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD",
+      "vin": "3TYLB5JN0TTV70461",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5e2812026465.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD PREMIUM",
+      "vin": "3TYLB5JN0TTV70469",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a46499ed0a5c.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD PREMIUM",
+      "vin": "3TYLC5LN0TTV70476",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/b40dee30abb0.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Double Cab TRD OFF-ROAD PREMIUM",
+      "vin": "3TYLB5JN0TTT63310",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/189df8578f0e.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new",
+      "price": 63839.0,
       "price_currency": "CAD"
     },
     {
@@ -2145,18 +2351,29 @@
       "condition": "new"
     },
     {
-      "name": "2026 Toyota Tacoma TRD OFF-ROAD PREMIUM",
-      "vin": "3TYLC5LN0TTV70350",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ef7c7eaefe29.html",
+      "name": "2026 Toyota Tacoma TRD SPORT +",
+      "vin": "3TYLB5JN1TT153409",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/c88e07fb0776.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new",
+      "price": 59426.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Tacoma SR5+",
+      "vin": "3TYLBSJN0TTV70471",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/e6bfd2690e5a.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "new"
     },
     {
-      "name": "2026 Toyota Tacoma TRD SPORT +",
-      "vin": "3TYLB5JN0TTV70349",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/1a3d65744313.html",
+      "name": "2026 Toyota Tacoma TRD OFF-ROAD PREMIUM",
+      "vin": "3TYLCSLN0TTV70478",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/f4b9bf5718bf.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
@@ -2164,65 +2381,12 @@
     },
     {
       "name": "2026 Toyota Tacoma SR5+",
-      "vin": "3TYLB5JN0TTV70346",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5b8e12dd483a.html",
+      "vin": "3TYLBSJN0TTV70468",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/07537cd90415.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "new"
-    },
-    {
-      "name": "2026 Toyota Tacoma TRD OFF-ROAD",
-      "vin": "3TYLB5JN0TTV70347",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/52bb29139cdd.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Toyota Tacoma TRD OFF-ROAD",
-      "vin": "3TYLB5JN9TT155361",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/dd99df627ec3.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 55627.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tacoma TRD OFF-ROAD PREMIUM",
-      "vin": "3TYLB5JN0TTT63299",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/6ba019826187.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "new",
-      "price": 63839.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tundra 1794",
-      "vin": "5TFMA5DB0TXT62865",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4c73b4601a38.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 86053.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tundra TRD PRO HYBRID",
-      "vin": "5TFPC5DBXTX150420",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/618b54a4e770.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 91488.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota bZ Woodland ,PREMIUM PAINT",
@@ -2247,6 +2411,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Toyota bZ Woodland - PREMIUM PACKAGE",
+      "vin": "JTMBGAHB0VYV70451",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/f9eeac9ba3a8.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 66967.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Toyota bZ XLE FWD,PREMIUM PAINT",
       "vin": "JTMAFAEB7VJ033596",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/6caa22b33c33.html",
@@ -2255,17 +2430,6 @@
       "model": "bZ",
       "condition": "new",
       "price": 49387.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ XLE FWD,PREMIUM PAINT",
-      "vin": "JTMAFAEB1VA014719",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/48c0f640121d.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 43137.0,
       "price_currency": "CAD"
     },
     {
@@ -2314,30 +2478,8 @@
     },
     {
       "name": "2027 Toyota bZ XLE FWD,PREMIUM PAINT",
-      "vin": "JTMAFAEB2VJ034638",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/39d79146bfd5.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 43137.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ XLE FWD,PREMIUM PAINT",
       "vin": "JTMAFAEB1VA014977",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/8197c26448ca.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 43137.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ XLE FWD,PREMIUM PAINT",
-      "vin": "JTMAFAEB2VA015300",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/070803719a6d.html",
       "year": 2027,
       "make": "Toyota",
       "model": "bZ",
@@ -2357,53 +2499,75 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota bZ XLE AWD",
-      "vin": "JTMADAFB6VA016924",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/d50e0835bc62.html",
+      "name": "2027 Toyota bZ XLE AWD,PREMIUM PAINT",
+      "vin": "JTMADAFB6VA017734",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/aa08a96aaf3d.html",
       "year": 2027,
       "make": "Toyota",
       "model": "bZ",
       "condition": "new",
-      "price": 47529.0,
+      "price": 47879.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE AWD,PREMIUM PAINT",
+      "vin": "JTMADAFB0VAV70445",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/646ee371e509.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 47879.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE FWD",
+      "vin": "JTMAFAEB0VAV70448",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/0c5275b5b53a.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 42787.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE AWD,PREMIUM PAINT",
+      "vin": "JTMADAFB0VAV70443",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/41743f12ab72.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 47879.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE AWD,PREMIUM PAINT",
+      "vin": "JTMADAFB0VAV70446",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a489bd35e5e5.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 47879.0,
       "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota bZ XLE AWD",
-      "vin": "JTMADAFB8VA016911",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5671f9aecff7.html",
+      "vin": "JTMADAFB0VAV70435",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/9b8271d678c7.html",
       "year": 2027,
       "make": "Toyota",
       "model": "bZ",
       "condition": "new",
-      "price": 47529.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ XLE AWD",
-      "vin": "JTMADAFB1VJ035591",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/2eab70561dae.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 47529.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota bZ XLE AWD",
-      "vin": "JTMADAFB8VA016939",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/d808253c2762.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "bZ",
-      "condition": "new",
-      "price": 47529.0,
+      "price": 56457.0,
       "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota bZ XLE FWD,PREMIUM PAINT",
-      "vin": "JTMAFAEB5VA015677",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/e405cdc4e92e.html",
+      "vin": "JTMAFAEB0VAV70447",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/1ad88baa538b.html",
       "year": 2027,
       "make": "Toyota",
       "model": "bZ",
@@ -2412,25 +2576,102 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota C-HR C-HR SE FWD",
-      "vin": "JTMABABD0TJV70042",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/b05ca76e0d51.html",
+      "name": "2027 Toyota bZ XLE AWD",
+      "vin": "JTMADAFB0VAV70441",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/279c6c0e769d.html",
       "year": 2027,
       "make": "Toyota",
-      "model": "C-HR",
+      "model": "bZ",
       "condition": "new",
-      "price": 47947.0,
+      "price": 47529.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota C-HR C-HR XSE AWD - BLACK INTERIOR,PREMIUM PAINT",
-      "vin": "JTMAAAAD0TJV70251",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/81a95d3ed513.html",
+      "name": "2027 Toyota bZ XLE AWD",
+      "vin": "JTMADAFB0VAV70437",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/49d65bbf30b8.html",
       "year": 2027,
       "make": "Toyota",
-      "model": "C-HR",
+      "model": "bZ",
       "condition": "new",
-      "price": 53347.0,
+      "price": 47529.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE AWD,PREMIUM PAINT",
+      "vin": "JTMADAFB0VAV70444",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/446bf1260e67.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 47879.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE AWD",
+      "vin": "JTMADAFB0VAV70442",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/f96bf9ad2c6b.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 47529.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE AWD",
+      "vin": "JTMADAFB0VAV70436",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/6f4d3edbf71b.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 47529.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE FWD",
+      "vin": "JTMAFAEB0VAV70449",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/d21ab2bed814.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 42787.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE FWD,PREMIUM PAINT",
+      "vin": "JTMAFAEB0VAV70450",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/42f9667123c3.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 43137.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE AWD",
+      "vin": "JTMADAFB0VAV70438",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/fe19c04f9ef1.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 47529.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota bZ XLE AWD",
+      "vin": "JTMADAFB0VAV70440",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/7d0d91148b80.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 47529.0,
       "price_currency": "CAD"
     },
     {
@@ -2445,17 +2686,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota C-HR C-HR SE FWD",
-      "vin": "JTMABABD0TJV70304",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/7af9587f6d73.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "C-HR",
-      "condition": "new",
-      "price": 46957.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Toyota C-HR C-HR XSE AWD PREMIUM PACKAGE,PREMIUM PAINT",
       "vin": "JTMAAAAD0TJV70301",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/60fde0419402.html",
@@ -2464,50 +2694,6 @@
       "model": "C-HR",
       "condition": "new",
       "price": 58002.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota C-HR C-HR XSE AWD PREMIUM PACKAGE",
-      "vin": "JTMAAAAD0TJV70300",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/dd91d36512d0.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "C-HR",
-      "condition": "new",
-      "price": 57447.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota C-HR C-HR XSE AWD - BLACK INTERIOR,PREMIUM PAINT",
-      "vin": "JTMAAAAD0TJV70298",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4b86fe168901.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "C-HR",
-      "condition": "new",
-      "price": 52357.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota C-HR C-HR XSE AWD PREMIUM PACKAGE,PREMIUM PAINT",
-      "vin": "JTMAAAAD0TJV70303",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/825325533141.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "C-HR",
-      "condition": "new",
-      "price": 57407.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota C-HR C-HR XSE AWD PREMIUM PACKAGE,PREMIUM PAINT",
-      "vin": "JTMAAAAD0TJV70302",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/92b1e32b9571.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "C-HR",
-      "condition": "new",
-      "price": 57012.0,
       "price_currency": "CAD"
     },
     {
@@ -2533,9 +2719,31 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Toyota C-HR C-HR XSE AWD PREMIUM PACKAGE,PREMIUM PAINT",
+      "vin": "JTMAAAAD1VJ035284",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/63f68164b749.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 57407.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota C-HR C-HR XSE AWD PREMIUM PACKAGE,PREMIUM PAINT",
+      "vin": "JTMAAAAD1VJ035253",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ee3614df1922.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 57012.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Toyota C-HR C-HR XSE AWD PREMIUM PACKAGE",
-      "vin": "JTMAAAAD0VJ034403",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5c3b7f1b4f89.html",
+      "vin": "JTMAAAAD8VJ036609",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5f4aa7b221af.html",
       "year": 2027,
       "make": "Toyota",
       "model": "C-HR",
@@ -2544,9 +2752,31 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Toyota C-HR C-HR XSE AWD - BLACK INTERIOR,PREMIUM PAINT",
+      "vin": "JTMAAAAD0VJV70394",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/d0d07047239b.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 52357.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota C-HR C-HR XSE AWD - BLACK INTERIOR,PREMIUM PAINT",
+      "vin": "JTMAAAAD0VJV70393",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/aa732ca823be.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 52357.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Toyota C-HR C-HR XSE AWD PREMIUM PACKAGE",
-      "vin": "JTMAAAAD1TJV70357",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/67aa00accf92.html",
+      "vin": "JTMAAAAD1VJ035124",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/d2ae404e7c54.html",
       "year": 2027,
       "make": "Toyota",
       "model": "C-HR",
@@ -2555,20 +2785,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota C-HR C-HR SE FWD",
-      "vin": "JTMABABD4VJ039518",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/40573ada98e1.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "C-HR",
-      "condition": "new",
-      "price": 46957.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Camry Sedan BLACK INTERIOR",
+      "name": "2027 Toyota Camry BLACK INTERIOR",
       "vin": "4T1DBADK4VU075552",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/bd3fb530b1e2.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/9f2552fa3c43.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Camry",
@@ -2577,36 +2796,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Camry Sedan SE FWD",
-      "vin": "4T1DAACK3VU376544",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/60efb5f92121.html",
+      "name": "2027 Toyota Camry BLACK INTERIOR,PREMIUM PAINT",
+      "vin": "4T1DBADK4VU075986",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/3c37ec16bffa.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Camry",
       "condition": "new",
-      "price": 1992.0,
+      "price": 48797.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Camry Sedan SE FWD",
+      "name": "2027 Toyota Camry SE FWD",
       "vin": "4T1DAACK6VU800606",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/dbe31c3f68e0.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/06c4a0a2bf4d.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Camry",
       "condition": "new",
-      "price": 1992.0,
+      "price": 37552.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Hatchback SE UPGRADE",
-      "vin": "JTNK4MBEXV3276751",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/31f2256e43d4.html",
+      "name": "2027 Toyota Camry SE UPGRADE FWD,PREMIUM PAINT",
+      "vin": "4T1DAACK5VU375735",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ba077bc1deee.html",
       "year": 2027,
       "make": "Toyota",
-      "model": "Corolla",
+      "model": "Camry",
       "condition": "new",
-      "price": 31190.0,
+      "price": 40942.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Camry BLACK INTERIOR",
+      "vin": "4T1DBADK0VUV70375",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/e8d9e6be4fad.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Camry",
+      "condition": "new",
+      "price": 47892.0,
       "price_currency": "CAD"
     },
     {
@@ -2621,14 +2851,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Sedan LE UPGRADE",
-      "vin": "5YFB4MDE7VP513169",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a514af97241d.html",
+      "name": "2027 Toyota Corolla Hatchback SE PLUS",
+      "vin": "JTNK4MBE0V3V70458",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/1aa53a77994b.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
       "condition": "new",
-      "price": 33124.0,
+      "price": 29732.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Corolla Hatchback SE UPGRADE",
+      "vin": "JTNK4MBE0V3V70459",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a0296ed380d8.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "new",
+      "price": 31362.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Corolla Hatchback SE UPGRADE",
+      "vin": "JTNK4MBE0V3V70460",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/22273ed0d1e3.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "new",
+      "price": 31362.0,
       "price_currency": "CAD"
     },
     {
@@ -2643,42 +2895,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Sedan SE UPGRADE",
-      "vin": "5YFB4MBE9VP300758",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/e6fc182cf0fe.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 35517.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Corolla Sedan LE CVT",
-      "vin": "5YFB4MDE5VP514272",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/35f6c9093690.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 28692.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Corolla Sedan LE UPGRADE",
-      "vin": "5YFB4MDE6VP518735",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/886b3ec23b6d.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 33124.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Corolla Sedan XSE CVT",
+      "name": "2027 Toyota Corolla XSE CVT",
       "vin": "5YFB4MBE2VP302514",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/f49392e2fa79.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/6491ab2c8c2d.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
@@ -2687,9 +2906,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Sedan XSE CVT",
+      "name": "2027 Toyota Corolla XSE CVT",
       "vin": "5YFB4MBE1VP300639",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/9d031af258c6.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/d4c487ded492.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
@@ -2698,9 +2917,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Sedan LE CVT",
+      "name": "2027 Toyota Corolla LE CVT",
       "vin": "5YFB4MDE4VP523075",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a175e66690ad.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/bec0004f6b70.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
@@ -2709,9 +2928,9 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Sedan LE CVT",
+      "name": "2027 Toyota Corolla LE CVT",
       "vin": "5YFB4MDE7VP522518",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/b57ff5172ece.html",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ad9f47154baa.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
@@ -2720,20 +2939,42 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Sedan LE CVT",
-      "vin": "5YFB4MDE5VP523232",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/150bbd066136.html",
+      "name": "2027 Toyota Corolla LE UPGRADE",
+      "vin": "5YFB4MDE0VP527513",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/dae43627c9ce.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
       "condition": "new",
-      "price": 28764.0,
+      "price": 30980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Sedan SE CVT",
-      "vin": "5YFB4MBE0TPV70318",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/2fda1735b4db.html",
+      "name": "2027 Toyota Corolla LE CVT",
+      "vin": "5YFB4MDE3VP528154",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/27a38819c30e.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "new",
+      "price": 28592.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Corolla LE UPGRADE",
+      "vin": "5YFB4MDE1VP526810",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/7514941a5cf4.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "new",
+      "price": 30808.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Corolla SE CVT",
+      "vin": "5YFB4MBE4VP307732",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/7467a41cbaff.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
@@ -2742,14 +2983,69 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Sedan LE UPGRADE",
-      "vin": "5YFB4MDE0VP527513",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/fcba4ecd4dd6.html",
+      "name": "2027 Toyota Corolla SE UPGRADE",
+      "vin": "5YFB4MBE0VPV70434",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/38cc25d3e637.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Corolla",
       "condition": "new",
-      "price": 30980.0,
+      "price": 33004.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota GR86 PREMIUM MT,PREMIUM PAINT",
+      "vin": "JF1ZNBE19V9751533",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5f592fb78b81.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "GR86",
+      "condition": "new",
+      "price": 39132.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota GR86 PREMIUM MT",
+      "vin": "JF1ZNBE10V9V70480",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/fa99f9795938.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "GR86",
+      "condition": "new",
+      "price": 38782.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Land Cruiser PREMIUM PACKAGE",
+      "vin": "JTEABFAJ6VK085328",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/c25ca89a5cd6.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "condition": "new",
+      "price": 92475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Land Cruiser PREMIUM PACKAGE",
+      "vin": "JTEABFAJ0VKV70483",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4a1b62de1a83.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "condition": "new",
+      "price": 92475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Land Cruiser PREMIUM PACKAGE",
+      "vin": "JTEABFAJ0VKV70484",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/8da9873bca62.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "condition": "new",
+      "price": 92475.0,
       "price_currency": "CAD"
     },
     {
@@ -2820,28 +3116,6 @@
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACU7V3084954",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/605dfae976af.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 42180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACU6V3085366",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/0f2e44e036ea.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 41830.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU0V3085542",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/2b8afd7612ef.html",
       "year": 2027,
@@ -2897,17 +3171,6 @@
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACU6V3084864",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/236728b0b124.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 42180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU5V3085536",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/263d619eb377.html",
       "year": 2027,
@@ -2921,17 +3184,6 @@
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU5V3085357",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/e4a5d466640d.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 41830.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACU5V3086122",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/63eedd15f498.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
@@ -3003,17 +3255,6 @@
       "model": "Prius Prime",
       "condition": "new",
       "price": 42180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACU1V3086182",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/8d022f1d6e30.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 41830.0,
       "price_currency": "CAD"
     },
     {
@@ -3139,17 +3380,6 @@
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACU1V3087364",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/892e9298f9a5.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43072.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU7V3087501",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/b81ef7567fb6.html",
       "year": 2027,
@@ -3172,17 +3402,6 @@
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACU0V3V70307",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ccdd520114ef.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43422.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU2V3088359",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/940f3e5ec54f.html",
       "year": 2027,
@@ -3190,17 +3409,6 @@
       "model": "Prius Prime",
       "condition": "new",
       "price": 43422.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACU2V3V70309",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/50daf509e9ad.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43072.0,
       "price_currency": "CAD"
     },
     {
@@ -3271,17 +3479,6 @@
     },
     {
       "name": "2027 Toyota Prius Plug-In Hybrid SE",
-      "vin": "JTDACACU2V3V70310",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/cc73839c7379.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43072.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU7V3088244",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/b11d8df5ad7c.html",
       "year": 2027,
@@ -3303,80 +3500,80 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU2V3088118",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/357d245c7f66.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43072.0,
+      "price": 41830.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU8V3088172",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/72d8264cc945.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43422.0,
+      "price": 42180.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU3V3088354",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/39d676acbf84.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43422.0,
+      "price": 42180.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU4V3088248",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/7a70023fd663.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43422.0,
+      "price": 42180.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU2V3088037",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/9e27d34088a2.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43072.0,
+      "price": 41830.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid XSE Premium Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid XSE PREMI",
       "vin": "JTDACACU2V3088412",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4514dfdee080.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 51152.0,
+      "price": 49910.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACUXV3088366",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/17af387668aa.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43422.0,
+      "price": 42180.0,
       "price_currency": "CAD"
     },
     {
@@ -3391,69 +3588,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
-      "vin": "JTDACACU2V3V70308",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/2304dba3a4ef.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43072.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU4V3088153",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/f35ff69850a8.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43072.0,
+      "price": 41830.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
-      "vin": "JTDACACU0V3V70306",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/669329bc28c6.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "new",
-      "price": 43422.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU5V3088159",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/0624e5c35365.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43072.0,
+      "price": 41830.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU0V3087999",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/b3ceb0be6970.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43072.0,
+      "price": 41830.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU6V3088137",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/3dbbf7e0ecd4.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43072.0,
+      "price": 41830.0,
       "price_currency": "CAD"
     },
     {
@@ -3512,25 +3687,91 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid XSE",
-      "vin": "JTDACACU2V3089026",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/629eac822996.html",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
+      "vin": "JTDACACU6V3089692",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/1ffe7a679e20.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 48392.0,
+      "price": 43422.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
+      "vin": "JTDACACU0V3089414",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/4d813efc13e5.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43072.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
+      "vin": "JTDACACU8V3089418",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/28ce130b8cd9.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43072.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
+      "vin": "JTDACACU3V3089827",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/aae22561e555.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43422.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
+      "vin": "JTDACACU9V3089590",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/a18f891a93dc.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43072.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
+      "vin": "JTDACACUXV3090473",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/e7aee294b67b.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 43072.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Prius Plug-In Hybrid XSE PREMI",
+      "vin": "JTDACACU0V3V7043Z",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/2b23a79a677f.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 51152.0,
       "price_currency": "CAD"
     },
     {
       "name": "2027 Toyota Prius XLE AWD",
-      "vin": "JTDADABU6V3038787",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/5fc07f1bcb2d.html",
+      "vin": "JTDADABU0V3V70433",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/50caac8d1d62.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius",
       "condition": "new",
-      "price": 40992.0,
+      "price": 41982.0,
       "price_currency": "CAD"
     }
   ]
