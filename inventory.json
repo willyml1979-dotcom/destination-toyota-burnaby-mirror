@@ -1,7 +1,7 @@
 {
   "dealership": "Destination Toyota Burnaby",
-  "generated_at": "2026-11-18T03:43:11",
-  "vehicle_count": 335,
+  "generated_at": "2026-11-18T12:19:56",
+  "vehicle_count": 333,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -14,17 +14,6 @@
       "model": "MDX",
       "condition": "used",
       "price": 14498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2012 Toyota Matrix ",
-      "vin": "2T1KU4EE2CC837660",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/98f830b57604.html",
-      "year": 2012,
-      "make": "Toyota",
-      "model": "Matrix",
-      "condition": "used",
-      "price": 14988.0,
       "price_currency": "CAD"
     },
     {
@@ -58,28 +47,6 @@
       "model": "RX",
       "condition": "used",
       "price": 23998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Mazda CX-3 GT AWD - Local, Low KMS, No Accidents, Great Shape",
-      "vin": "JM1DKBD75G0115556",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/b8cf83ec21a8.html",
-      "year": 2016,
-      "make": "Mazda",
-      "model": "CX-3",
-      "condition": "used",
-      "price": 18498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Subaru Outback 2.5 Touring Auto - No Accidents, Well Maintained!",
-      "vin": "4S4BSCDC8G3224467",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/99b30ca6e6ba.html",
-      "year": 2016,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "used",
-      "price": 15498.0,
       "price_currency": "CAD"
     },
     {
@@ -138,14 +105,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Acura RDX ",
+      "name": "2018 Acura RDX Elite AWD - Top of the Line, Good Condition!",
       "vin": "5J8TB4H73JL806139",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/f7927e68d6f7.html",
       "year": 2018,
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 23998.0,
+      "price": 23498.0,
       "price_currency": "CAD"
     },
     {
@@ -168,6 +135,17 @@
       "model": "IONIQ Electric",
       "condition": "used",
       "price": 15998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Hyundai Santa Fe Sport Limited",
+      "vin": "5NMZUDLA0JH068436",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/d94f85985f01.html",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used",
+      "price": 15498.0,
       "price_currency": "CAD"
     },
     {
@@ -233,7 +211,7 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "used",
-      "price": 21498.0,
+      "price": 20998.0,
       "price_currency": "CAD"
     },
     {
@@ -299,7 +277,7 @@
       "make": "Lexus",
       "model": "UX",
       "condition": "used",
-      "price": 32998.0,
+      "price": 31498.0,
       "price_currency": "CAD"
     },
     {
@@ -322,6 +300,17 @@
       "model": "Forester",
       "condition": "used",
       "price": 31998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Toyota RAV4 LE",
+      "vin": "2T3B1RFV3LC111060",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/7893d451959d.html",
+      "year": 2020,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 22498.0,
       "price_currency": "CAD"
     },
     {
@@ -354,11 +343,11 @@
       "make": "Lexus",
       "model": "RX",
       "condition": "used",
-      "price": 45998.0,
+      "price": 44998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Lexus RX ",
+      "name": "2021 Lexus RX 350 F-Sport Series 3 - Local, Top of the Line!",
       "vin": "2T2YZMDA7MC289016",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/880ff7c187bd.html",
       "year": 2021,
@@ -468,6 +457,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Toyota RAV4 Trail",
+      "vin": "2T3J1RFVXMW206081",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/609508863fbb.html",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 37998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Toyota Tacoma Double Cab TRD Sport - Local, One Owner, Toyota Certified!",
       "vin": "5TFDZ5BN1MX056779",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/f2fa7f023f9a.html",
@@ -519,7 +519,7 @@
       "make": "Honda",
       "model": "Odyssey",
       "condition": "used",
-      "price": 45998.0,
+      "price": 44998.0,
       "price_currency": "CAD"
     },
     {
@@ -567,17 +567,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Toyota Corolla XSE Auto - Local, One Owner, Fully Loaded!",
-      "vin": "5YFB4MBEXNP135500",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/1da75ccbadfc.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 25998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Toyota Corolla L CVT, Local, Low Kms",
       "vin": "5YFBPMBE4NP282709",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/bc4d3533a473.html",
@@ -600,14 +589,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Toyota Sienna ",
+      "name": "2022 Toyota Sienna Hybrid Limited AWD, Local, One owner, Fully Loaded",
       "vin": "5TDGSKFC5NS058468",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/10a1997af575.html",
       "year": 2022,
       "make": "Toyota",
-      "model": "Sienna",
+      "model": "Sienna Hybrid",
       "condition": "used",
-      "price": 55998.0,
+      "price": 54998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Toyota Tacoma Double Cab Dbl Cab SR, Local, Great shape",
+      "vin": "3TYDZ5BN2NT012205",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/40451cfc5158.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "used",
+      "price": 40498.0,
       "price_currency": "CAD"
     },
     {
@@ -673,7 +673,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 58498.0,
+      "price": 54998.0,
       "price_currency": "CAD"
     },
     {
@@ -684,18 +684,18 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 58998.0,
+      "price": 54998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda Odyssey ",
+      "name": "2023 Honda Odyssey Touring Auto - Fully Loaded, Local, One Owner!",
       "vin": "5FNRL6H85PB502221",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/7b7ae676e40c.html",
       "year": 2023,
       "make": "Honda",
       "model": "Odyssey",
       "condition": "used",
-      "price": 42998.0,
+      "price": 42498.0,
       "price_currency": "CAD"
     },
     {
@@ -798,12 +798,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Toyota Corolla Cross Hybrid Hybrid SE, Local, Low Kms, No accidents",
+      "name": "2023 Toyota Corolla Cross Hybrid SE, Local, Low Kms, No accidents",
       "vin": "7MUFBABG0PV006544",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/fd7034ace3a1.html",
       "year": 2023,
       "make": "Toyota",
-      "model": "Corolla Cross Hybrid Hybrid",
+      "model": "Corolla Cross Hybrid",
       "condition": "used",
       "price": 39998.0,
       "price_currency": "CAD"
@@ -941,7 +941,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Kicks ",
+      "name": "2024 Nissan Kicks SR Premium CVT - Local, One Owner, Loaded!",
       "vin": "3N1CP5DV5RL529569",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/eca2f2f2bba4.html",
       "year": 2024,
@@ -1015,17 +1015,6 @@
       "model": "Camry",
       "condition": "used",
       "price": 31498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Corolla Cross Hybrid SE AWD - Local, One Owner, No Accidents!",
-      "vin": "7MUFBABG9RV018873",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/37106295d92b.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Corolla Cross Hybrid",
-      "condition": "used",
-      "price": 24498.0,
       "price_currency": "CAD"
     },
     {
@@ -1103,17 +1092,6 @@
       "model": "Grand Highlander Hybrid",
       "condition": "used",
       "price": 65998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Prius Prime SE Auto - Local, Good Shape, Toyota Certified!",
-      "vin": "JTDACACU5R3020238",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/725f20972700.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "used",
-      "price": 30998.0,
       "price_currency": "CAD"
     },
     {
@@ -1201,7 +1179,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 41998.0,
+      "price": 41498.0,
       "price_currency": "CAD"
     },
     {
@@ -1235,17 +1213,6 @@
       "model": "Venue",
       "condition": "used",
       "price": 25998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Lexus UX 300h Luxury Pack - Local, One Owner, No Accidents!",
-      "vin": "JTHUCJDH3S2012907",
-      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/ecbaf0669e08.html",
-      "year": 2025,
-      "make": "Lexus",
-      "model": "UX",
-      "condition": "used",
-      "price": 44498.0,
       "price_currency": "CAD"
     },
     {
@@ -1345,6 +1312,17 @@
       "model": "Corolla Hybrid",
       "condition": "used",
       "price": 33498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Toyota Corolla Hybrid LE",
+      "vin": "JTDBCMFE0SJ045317",
+      "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/cd77803aece4.html",
+      "year": 2025,
+      "make": "Toyota",
+      "model": "Corolla Hybrid",
+      "condition": "used",
+      "price": 30998.0,
       "price_currency": "CAD"
     },
     {

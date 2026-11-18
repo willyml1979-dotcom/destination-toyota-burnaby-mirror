@@ -1,6 +1,6 @@
 # Destination Toyota Burnaby
 
- dealership in Burnaby. AI-readable inventory mirror, about 335 vehicles.
+ dealership in Burnaby. AI-readable inventory mirror, about 333 vehicles.
 
 - Official website: https://www.destinationtoyota.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/
