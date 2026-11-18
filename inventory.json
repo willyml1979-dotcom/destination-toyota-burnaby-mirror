@@ -1,6 +1,6 @@
 {
   "dealership": "Destination Toyota Burnaby",
-  "generated_at": "2026-11-17T14:11:46",
+  "generated_at": "2026-11-17T21:54:44",
   "vehicle_count": 335,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -3445,14 +3445,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Prius Plug-In Hybrid SE Auto",
+      "name": "2027 Toyota Prius Plug-In Hybrid SE",
       "vin": "JTDACACU5V3088274",
       "url": "https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/24128a017e6e.html",
       "year": 2027,
       "make": "Toyota",
       "model": "Prius Prime",
       "condition": "new",
-      "price": 43422.0,
+      "price": 42180.0,
       "price_currency": "CAD"
     },
     {
