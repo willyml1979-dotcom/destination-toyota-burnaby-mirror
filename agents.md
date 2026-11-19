@@ -7,7 +7,7 @@ Destination Toyota Burnaby is a  dealership in Burnaby. This site is an AI-reada
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/ and https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ (about 333 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/used/ and https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/new/ (about 341 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/destination-toyota-burnaby-mirror/llms.txt
